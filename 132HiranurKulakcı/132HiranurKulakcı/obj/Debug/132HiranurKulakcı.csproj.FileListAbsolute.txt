@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\bin\Debug\132HiranurKulakcı.exe.config
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\bin\Debug\132HiranurKulakcı.exe
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\bin\Debug\132HiranurKulakcı.pdb
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\132HiranurKulakcı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\132HiranurKulakcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\_132HiranurKulakcı.Form1.resources
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\_132HiranurKulakcı.Properties.Resources.resources
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\132HiranurKulakcı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\132HiranurKulakcı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\132HiranurKulakcı.exe
+C:\Users\User\Desktop\132HiranurKulakcı\132HiranurKulakcı\obj\Debug\132HiranurKulakcı.pdb
